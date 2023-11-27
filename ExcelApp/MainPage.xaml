@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ExcelApp"
+             x:Class="ExcelApp.MainPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <StackLayout Orientation="Horizontal">
+            <Button Text="Довідка" Clicked="HelpButton_Clicked" />
+            <Button Text="Прочитати" Clicked="ReadButton_Clicked" />
+            <Button Text="Прочитати з Google Drive" Clicked="ReadFromGDriveButton_Clicked" />
+            <Button Text="Зберегти" Clicked="SaveButton_Clicked" />
+            <Button Text="Зберегти в Google Drive" Clicked="SaveToGDriveButton_Clicked" />
+            <Button Text="Вийти" Clicked="ExitButton_Clicked" />
+            <Button Text="Додати рядок" Clicked="AddRowButton_Clicked" />
+            <Button Text="Видалити рядок" Clicked="DeleteRowButton_Clicked" />
+            <Button Text="Додати стовпчик" Clicked="AddColumnButton_Clicked" />
+            <Button Text="Видалити стовпчик" Clicked="DeleteColumnButton_Clicked" />
+        </StackLayout>
+        <ScrollView Grid.Row="2" Grid.ColumnSpan="2">
+            <Grid x:Name="grid">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="20" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="30"/>
+                </Grid.ColumnDefinitions>
+            </Grid>
+        </ScrollView>
+    </Grid>
+</ContentPage>

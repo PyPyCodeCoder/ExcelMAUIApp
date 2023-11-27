@@ -1,0 +1,38 @@
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\bin\Debug\net7.0\Controller.deps.json
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\bin\Debug\net7.0\Controller.dll
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\bin\Debug\net7.0\Controller.pdb
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\Controller.csproj.AssemblyReference.cache
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\CalculationControllerLexer.cs
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\CalculationControllerParser.cs
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\CalculationControllerListener.cs
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\CalculationControllerBaseListener.cs
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\CalculationControllerVisitor.cs
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\CalculationControllerBaseVisitor.cs
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\Controller.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\Controller.AssemblyInfoInputs.cache
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\Controller.AssemblyInfo.cs
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\Controller.csproj.CoreCompileInputs.cache
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\Controller.dll
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\refint\Controller.dll
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\Controller.pdb
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\ref\Controller.dll
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\bin\Debug\net7.0\Controller.deps.json
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\bin\Debug\net7.0\Controller.dll
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\bin\Debug\net7.0\Controller.pdb
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\obj\Debug\net7.0\Controller.csproj.AssemblyReference.cache
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\obj\Debug\net7.0\CalculationControllerLexer.cs
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\obj\Debug\net7.0\CalculationControllerParser.cs
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\obj\Debug\net7.0\CalculationControllerListener.cs
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\obj\Debug\net7.0\CalculationControllerBaseListener.cs
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\obj\Debug\net7.0\CalculationControllerVisitor.cs
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\obj\Debug\net7.0\CalculationControllerBaseVisitor.cs
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\obj\Debug\net7.0\Controller.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\obj\Debug\net7.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\obj\Debug\net7.0\Controller.AssemblyInfoInputs.cache
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\obj\Debug\net7.0\Controller.AssemblyInfo.cs
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\obj\Debug\net7.0\Controller.csproj.CoreCompileInputs.cache
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\obj\Debug\net7.0\Controller.dll
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\obj\Debug\net7.0\refint\Controller.dll
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\obj\Debug\net7.0\Controller.pdb
+D:\Valera\122_22_2\OOP\ema versions\ExcelMAUIApp pathetic\Controller\obj\Debug\net7.0\ref\Controller.dll
