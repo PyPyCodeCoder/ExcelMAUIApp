@@ -1,1 +1,0 @@
-D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\ExcelApp.csproj;x64
