@@ -1,6 +1,0 @@
-D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\CalculationControllerLexer.cs
-D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\CalculationControllerParser.cs
-D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\CalculationControllerListener.cs
-D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\CalculationControllerBaseListener.cs
-D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\CalculationControllerVisitor.cs
-D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controller\obj\Debug\net7.0\CalculationControllerBaseVisitor.cs
