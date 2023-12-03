@@ -1059,3 +1059,4 @@ D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-android\stamp\_Con
 D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-android\stamp\_GenerateJavaStubs.stamp
 D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
 D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-android\ExcelApp.sourcelink.json

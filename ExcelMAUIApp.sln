@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelApp", "ExcelApp\ExcelA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controllers", "Controllers\Controllers.csproj", "{6057FFB0-3585-49A6-BF9F-1F6E071C7300}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{4FC14582-CF25-4C8C-A4C0-BB4362C55D0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{6057FFB0-3585-49A6-BF9F-1F6E071C7300}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6057FFB0-3585-49A6-BF9F-1F6E071C7300}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6057FFB0-3585-49A6-BF9F-1F6E071C7300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC14582-CF25-4C8C-A4C0-BB4362C55D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC14582-CF25-4C8C-A4C0-BB4362C55D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC14582-CF25-4C8C-A4C0-BB4362C55D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC14582-CF25-4C8C-A4C0-BB4362C55D0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

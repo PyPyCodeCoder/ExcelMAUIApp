@@ -29,29 +29,29 @@
     <AppXManifest Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-27T19:08:44.224</Modified>
+      <Modified>2023-12-02T23:00:16.171</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-27T19:08:43.758</Modified>
+      <Modified>2023-12-02T23:00:15.502</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ExcelApp.runtimeconfig.json">
       <PackagePath>ExcelApp.runtimeconfig.json</PackagePath>
-      <Modified>2023-11-23T15:09:58.763</Modified>
+      <Modified>2023-12-02T23:00:15.219</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ExcelApp.dll">
       <PackagePath>ExcelApp.dll</PackagePath>
-      <Modified>2023-11-27T19:08:43.058</Modified>
+      <Modified>2023-12-02T23:00:13.598</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ExcelApp.exe</PackagePath>
-      <Modified>2023-11-27T19:08:43.074</Modified>
+      <Modified>2023-12-02T23:00:13.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ExcelApp.deps.json">
       <PackagePath>ExcelApp.deps.json</PackagePath>
-      <Modified>2023-11-23T16:33:04.873</Modified>
+      <Modified>2023-12-02T23:00:15.157</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Valera\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.14\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -975,7 +975,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controllers\bin\Debug\net7.0\Controllers.dll">
       <PackagePath>Controllers.dll</PackagePath>
-      <Modified>2023-11-23T15:09:42.170</Modified>
+      <Modified>2023-12-02T22:59:58.881</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.101\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -991,239 +991,239 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2023-11-09T11:00:55.063</Modified>
+      <Modified>2023-12-02T22:58:40.003</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.227</Modified>
+      <Modified>2023-12-02T22:58:46.676</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.261</Modified>
+      <Modified>2023-12-02T22:58:46.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.296</Modified>
+      <Modified>2023-12-02T22:58:46.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.341</Modified>
+      <Modified>2023-12-02T22:58:46.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.641</Modified>
+      <Modified>2023-12-02T22:58:46.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2023-11-09T11:00:54.104</Modified>
+      <Modified>2023-12-02T22:58:46.646</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2023-11-09T11:00:54.105</Modified>
+      <Modified>2023-12-02T22:58:46.647</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-11-23T15:09:56.687</Modified>
+      <Modified>2023-12-02T22:58:46.648</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.981</Modified>
+      <Modified>2023-12-02T22:58:46.649</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.993</Modified>
+      <Modified>2023-12-02T22:58:46.649</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-11-23T15:09:57.008</Modified>
+      <Modified>2023-12-02T22:58:46.650</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-11-23T15:09:57.026</Modified>
+      <Modified>2023-12-02T22:58:46.651</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-11-23T15:09:57.117</Modified>
+      <Modified>2023-12-02T22:58:46.651</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.772</Modified>
+      <Modified>2023-12-02T22:58:46.652</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.775</Modified>
+      <Modified>2023-12-02T22:58:46.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.789</Modified>
+      <Modified>2023-12-02T22:58:46.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.778</Modified>
+      <Modified>2023-12-02T22:58:46.654</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.781</Modified>
+      <Modified>2023-12-02T22:58:46.654</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.752</Modified>
+      <Modified>2023-12-02T22:58:46.654</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.754</Modified>
+      <Modified>2023-12-02T22:58:46.655</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.770</Modified>
+      <Modified>2023-12-02T22:58:46.655</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.758</Modified>
+      <Modified>2023-12-02T22:58:46.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.762</Modified>
+      <Modified>2023-12-02T22:58:46.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.704</Modified>
+      <Modified>2023-12-02T22:58:46.657</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.710</Modified>
+      <Modified>2023-12-02T22:58:46.657</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.714</Modified>
+      <Modified>2023-12-02T22:58:46.657</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.719</Modified>
+      <Modified>2023-12-02T22:58:46.658</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.726</Modified>
+      <Modified>2023-12-02T22:58:46.658</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.731</Modified>
+      <Modified>2023-12-02T22:58:46.659</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.734</Modified>
+      <Modified>2023-12-02T22:58:46.660</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.748</Modified>
+      <Modified>2023-12-02T22:58:46.660</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.737</Modified>
+      <Modified>2023-12-02T22:58:46.661</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.740</Modified>
+      <Modified>2023-12-02T22:58:46.661</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.845</Modified>
+      <Modified>2023-12-02T22:58:46.662</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.851</Modified>
+      <Modified>2023-12-02T22:58:46.662</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.860</Modified>
+      <Modified>2023-12-02T22:58:46.662</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.870</Modified>
+      <Modified>2023-12-02T22:58:46.663</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.888</Modified>
+      <Modified>2023-12-02T22:58:46.663</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.815</Modified>
+      <Modified>2023-12-02T22:58:46.664</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.819</Modified>
+      <Modified>2023-12-02T22:58:46.664</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.825</Modified>
+      <Modified>2023-12-02T22:58:46.665</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.830</Modified>
+      <Modified>2023-12-02T22:58:46.665</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.840</Modified>
+      <Modified>2023-12-02T22:58:46.666</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.793</Modified>
+      <Modified>2023-12-02T22:58:46.666</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.796</Modified>
+      <Modified>2023-12-02T22:58:46.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.800</Modified>
+      <Modified>2023-12-02T22:58:46.668</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.804</Modified>
+      <Modified>2023-12-02T22:58:46.668</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.810</Modified>
+      <Modified>2023-12-02T22:58:46.669</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.895</Modified>
+      <Modified>2023-12-02T22:58:46.669</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.907</Modified>
+      <Modified>2023-12-02T22:58:46.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.918</Modified>
+      <Modified>2023-12-02T22:58:46.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.937</Modified>
+      <Modified>2023-12-02T22:58:46.671</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.971</Modified>
+      <Modified>2023-12-02T22:58:46.672</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.713</Modified>
+      <Modified>2023-12-02T22:58:46.672</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.728</Modified>
+      <Modified>2023-12-02T22:58:46.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.746</Modified>
+      <Modified>2023-12-02T22:58:46.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.771</Modified>
+      <Modified>2023-12-02T22:58:46.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-11-23T15:09:56.834</Modified>
+      <Modified>2023-12-02T22:58:46.675</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

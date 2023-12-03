@@ -17,3 +17,4 @@ D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controllers\obj\Debug\net7.0\Controllers.dll
 D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controllers\obj\Debug\net7.0\refint\Controllers.dll
 D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controllers\obj\Debug\net7.0\Controllers.pdb
 D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controllers\obj\Debug\net7.0\ref\Controllers.dll
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\Controllers\obj\Debug\net7.0\Controllers.sourcelink.json

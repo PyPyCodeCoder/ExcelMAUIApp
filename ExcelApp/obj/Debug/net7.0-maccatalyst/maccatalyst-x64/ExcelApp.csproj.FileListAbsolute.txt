@@ -270,3 +270,4 @@ D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-maccatalyst\maccat
 D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ExcelApp.pdb
 D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ExcelApp.genruntimeconfig.cache
 D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ref\ExcelApp.dll
+D:\Valera\122_22_2\OOP\ExcelMAUIApp\ExcelApp\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ExcelApp.sourcelink.json
